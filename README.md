@@ -1,4 +1,4 @@
-# Interstellar: Final Boss Battle
+# Interstellar
 
 A thrilling space shooter where you face off against a powerful final boss. Dodge its attacks, shoot down the boss, and try to survive!
 
